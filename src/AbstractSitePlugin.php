@@ -11,7 +11,6 @@
 namespace Devaloka\Plugin\Site;
 
 use Devaloka\Plugin\AbstractPlugin;
-use Devaloka\Plugin\PluginInterface;
 use Devaloka\Plugin\TranslatablePluginInterface;
 use Devaloka\Plugin\TranslatablePluginTrait;
 use Devaloka\DependencyInjection\ContainerAwareInterface;
