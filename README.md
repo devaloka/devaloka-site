@@ -19,6 +19,3 @@ A WordPress Plugin boilerplate that provides Site-specific things.
     ```sh
     composer require devaloka/devaloka-site
     ```
-
-2.  Move `loader/40-devaloka-site-loader.php` into
-    `<ABSPATH>wp-content/mu-plugins/`.
