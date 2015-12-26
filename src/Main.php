@@ -15,5 +15,6 @@ namespace Devaloka\Plugin\Site;
  *
  * @package Devaloka\Plugin\Site
  */
-class Main extends AbstractSitePlugin {
+class Main extends AbstractSitePlugin
+{
 }
