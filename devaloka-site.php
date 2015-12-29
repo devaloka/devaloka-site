@@ -2,7 +2,7 @@
 /*
 Plugin Name: Devaloka Site
 Description: Provides Site-specific things
-Version: 0.1.1
+Version: 0.1.2
 Author: Whizark
 Author URI: http://whizark.com
 License: GPL-2.0+
