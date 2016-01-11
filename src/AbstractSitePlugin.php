@@ -13,8 +13,8 @@ namespace Devaloka\Plugin\Site;
 use Devaloka\Plugin\AbstractPlugin;
 use Devaloka\Plugin\TranslatablePluginInterface;
 use Devaloka\Plugin\TranslatablePluginTrait;
-use Devaloka\DependencyInjection\ContainerAwareInterface;
-use Devaloka\DependencyInjection\ContainerAwareTrait;
+use Devaloka\Component\DependencyInjection\ContainerAwareInterface;
+use Devaloka\Component\DependencyInjection\ContainerAwareTrait;
 
 /**
  * Class AbstractSitePlugin
