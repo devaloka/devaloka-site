@@ -10,7 +10,7 @@
 
 if (!function_exists('devaloka_site')) {
     /**
-     * @return Devaloka\Plugin\Site\SiteInterface|\Devaloka\Common\NullObject
+     * @return Devaloka\Plugin\Site\SiteInterface|\Ecailles\NullObject\NullObject
      */
     function devaloka_site()
     {
@@ -22,7 +22,7 @@ if (!function_exists('deva_site')) {
     /**
      * @see devaloka_site() :alias:
      *
-     * @return Devaloka\Plugin\Site\SiteInterface|\Devaloka\Common\NullObject
+     * @return Devaloka\Plugin\Site\SiteInterface|\Ecailles\NullObject\NullObject
      */
     function deva_site()
     {
@@ -34,7 +34,7 @@ if (!function_exists('dl_site')) {
     /**
      * @see devaloka_site() :alias:
      *
-     * @return Devaloka\Plugin\Site\SiteInterface|\Devaloka\Common\NullObject
+     * @return Devaloka\Plugin\Site\SiteInterface|\Ecailles\NullObject\NullObject
      */
     function dl_site()
     {
